@@ -1,0 +1,9 @@
+{
+  "name": "kiao-adr",
+  "version": "1.0.0",
+  "description": "kiao-adr skill",
+  "targets": [
+    "codex",
+    "claude"
+  ]
+}
